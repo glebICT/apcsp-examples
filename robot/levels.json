@@ -1,0 +1,44 @@
+{
+  "1": {
+    "maze": [
+      [1, 1, 1, 1, 1, 1, 1],
+      [1, 0, 0, 0, 0, 0, 1],
+      [1, 0, 1, 1, 1, 0, 1],
+      [1, 0, 0, 0, 0, 0, 1],
+      [1, 1, 1, 1, 1, 1, 1]
+    ],
+    "start": [1, 1],
+    "end": [5, 3],
+    "hint": "Try: right right right right down down right",
+    "concept": "Sequential Commands - Code runs in order!"
+  },
+  "2": {
+    "maze": [
+      [1, 1, 1, 1, 1, 1, 1, 1],
+      [1, 0, 0, 0, 1, 0, 0, 1],
+      [1, 0, 1, 0, 1, 0, 1, 1],
+      [1, 0, 1, 0, 0, 0, 0, 1],
+      [1, 0, 0, 0, 1, 1, 0, 1],
+      [1, 1, 1, 1, 1, 1, 1, 1]
+    ],
+    "start": [1, 1],
+    "end": [6, 4],
+    "hint": "Go around obstacles! Plan your path carefully.",
+    "concept": "Problem Decomposition - Break into steps!"
+  },
+"3": {
+        "maze": [
+            [1, 1, 1, 1, 1, 1, 1, 1, 1],
+            [1, 0, 0, 0, 1, 0, 0, 0, 1],
+            [1, 0, 1, 0, 1, 0, 1, 0, 1],
+            [1, 0, 1, 0, 0, 0, 1, 0, 1],
+            [1, 0, 1, 1, 1, 0, 1, 0, 1],
+            [1, 0, 0, 0, 0, 0, 0, 0, 1],
+            [1, 1, 1, 1, 1, 1, 1, 1, 1]
+        ],
+        "start": [1, 1],
+        "end": [7, 5],
+        "hint": "Find the shortest path! This is pathfinding.",
+        "concept": "Pathfinding Algorithm - Find the best route!"
+    }
+}

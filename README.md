@@ -33,3 +33,13 @@ From IDE:
 - isPrime.py - A function that checks if a number is prime and counts the number of prime numbers in a list. Example for Q11 Use of isPrime procedure
 
 - rgb.py - S simple CLI game that generates random RGB values, converts them to binary, and allows the user to guess the color. Example for Q13 Color represented by binary triplet
+
+## robot.py
+A simple simulation of a robot moving on a grid based on user commands. 
+Features:
+- Multiple maze levels with walls and paths.
+- Command-based movement of the turtle: up, down, left, right.
+- Coombined GUI and CLI interface.
+- Hints and instructions for each level.
+- Simple animations for collisions and celebrations.
+- Maze and UI rendering using turtle graphics.
