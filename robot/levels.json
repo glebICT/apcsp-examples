@@ -40,5 +40,18 @@
         "end": [7, 5],
         "hint": "Find the shortest path! This is pathfinding.",
         "concept": "Pathfinding Algorithm - Find the best route!"
-    }
+    },
+"4": {
+    "maze": [
+      [1, 1, 1, 1, 1, 1, 1],
+      [1, 0, 0, 0, 0, 0, 1],
+      [1, 0, 1, 1, 1, 0, 1],
+      [1, 0, 0, 0, 0, 0, 1],
+      [1, 1, 1, 1, 1, 1, 1]
+    ],
+    "start": [1, 1],
+    "end": [5, 3],
+    "hint": "follow the path",
+    "concept": "Done by Mamuka"
+  }
 }
