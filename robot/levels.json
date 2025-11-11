@@ -27,19 +27,19 @@
     "concept": "Problem Decomposition - Break into steps!"
   },
 "3": {
-        "maze": [
-            [1, 1, 1, 1, 1, 1, 1, 1, 1],
-            [1, 0, 0, 0, 1, 0, 0, 0, 1],
-            [1, 0, 1, 0, 1, 0, 1, 0, 1],
-            [1, 0, 1, 0, 0, 0, 1, 0, 1],
-            [1, 0, 1, 1, 1, 0, 1, 0, 1],
-            [1, 0, 0, 0, 0, 0, 0, 0, 1],
-            [1, 1, 1, 1, 1, 1, 1, 1, 1]
-        ],
-        "start": [1, 1],
-        "end": [7, 5],
-        "hint": "Find the shortest path! This is pathfinding.",
-        "concept": "Pathfinding Algorithm - Find the best route!"
+    "maze": [
+        [1, 1, 1, 1, 1, 1, 1, 1, 1],
+        [1, 0, 0, 0, 1, 0, 0, 0, 1],
+        [1, 0, 1, 0, 1, 0, 1, 0, 1],
+        [1, 0, 1, 0, 0, 0, 1, 0, 1],
+        [1, 0, 1, 1, 1, 0, 1, 0, 1],
+        [1, 0, 0, 0, 0, 0, 0, 0, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    ],
+    "start": [1, 1],
+    "end": [7, 5],
+    "hint": "Find the shortest path! This is pathfinding.",
+    "concept": "Pathfinding Algorithm - Find the best route!"
     },
 "4": {
     "maze": [
@@ -55,34 +55,33 @@
     "concept": "Done by Mamuka"
   },
   "5": {
-        "maze": [
-          [0, 0, 0, 0, 0, 0, 0, 0, 0],
-          [1, 1, 1, 1, 0, 0, 0, 0, 0],
-          [1, 1, 1, 1, 0, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0, 0, 0, 0, 0],
-          [1, 1, 0, 0, 0, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0, 0, 0, 0, 1],
-          [1, 1, 1, 1, 1, 1, 1, 1, 1]
-        ],
-        "start": [ 1, 5],
-        "end": [0,0],
-        "hint": "Find the shortest path! This is pathfinding.",
-        "concept": "Pathfinding Algorithm -by Kira"
+      "maze": [
+        [0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [1, 1, 1, 1, 0, 0, 0, 0, 0],
+        [1, 1, 1, 1, 0, 0, 0, 0, 0],
+        [1, 0, 0, 0, 0, 0, 0, 0, 0],
+        [1, 1, 0, 0, 0, 0, 0, 0, 0],
+        [1, 0, 0, 0, 0, 0, 0, 0, 1],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1]
+      ],
+      "start": [ 1, 5],
+      "end": [0,0],
+      "hint": "Find the shortest path! This is pathfinding.",
+      "concept": "Pathfinding Algorithm -by Kira"
   },
   "6": {
-          "maze": [
-            [1, 1, 1, 1, 1, 1, 1],
-            [1, 0, 0, 0, 0, 0, 1],
-            [1, 1, 1, 1, 1, 0, 1],
-            [1, 1, 1, 1, 1, 0, 1],
-            [1, 1, 0, 0, 0, 0, 1],
-            [1, 0, 0, 1, 1, 1, 1],
-            [1, 1, 1, 1, 1, 1, 1]
-        ],
-        "start": [1, 1],
-        "end": [1, 5],
-        "hint": "Find the shortest path! This is pathfinding.",
-        "concept": "Pathfinding Algorithm - by Giori"
-    }
+      "maze": [
+        [1, 1, 1, 1, 1, 1, 1],
+        [1, 0, 0, 0, 0, 0, 1],
+        [1, 1, 1, 1, 1, 0, 1],
+        [1, 1, 1, 1, 1, 0, 1],
+        [1, 1, 0, 0, 0, 0, 1],
+        [1, 0, 0, 1, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1]
+    ],
+    "start": [1, 1],
+    "end": [1, 5],
+    "hint": "Find the shortest path! This is pathfinding.",
+    "concept": "Pathfinding Algorithm - by Giori"
   }
 }
