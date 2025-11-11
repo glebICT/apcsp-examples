@@ -40,5 +40,20 @@
         "end": [7, 5],
         "hint": "Find the shortest path! This is pathfinding.",
         "concept": "Pathfinding Algorithm - Find the best route!"
-    }
+    },
+  "4": {
+        "maze": [
+          [0, 0, 0, 0, 0, 0, 0, 0, 0],
+          [1, 1, 1, 1, 0, 0, 0, 0, 0],
+          [1, 1, 1, 1, 0, 0, 0, 0, 0],
+          [1, 0, 0, 0, 0, 0, 0, 0, 0],
+          [1, 1, 0, 0, 0, 0, 0, 0, 0],
+          [1, 0, 0, 0, 0, 0, 0, 0, 1],
+          [1, 1, 1, 1, 1, 1, 1, 1, 1]
+        ],
+        "start": [ 1, 5],
+        "end": [0,0],
+        "hint": "Find the shortest path! This is pathfinding.",
+        "concept": "Pathfinding Algorithm -by Kira"
+}
 }
